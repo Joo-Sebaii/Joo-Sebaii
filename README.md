@@ -85,7 +85,7 @@ An end-to-end machine learning system for predicting serious loan delinquency ac
 
 **Technologies:** Python, Scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, SHAP, Pandas, NumPy
 
-[View Project](https://github.com/Joo-Sebaii)
+[View Project](https://drive.google.com/drive/u/0/folders/1GFL6IK25YF2PRpH3voIaVQzdHbS-zFwr)
 
 
 ### M5 Demand Forecasting — MLOps-Driven Deep Learning Pipeline
@@ -102,7 +102,7 @@ A deep learning time-series forecasting project focused on predicting unit sales
 
 **Technologies:** Python, PyTorch, DVC, MLflow, FastAPI, Docker, GitHub Actions, Evidently AI, Airflow
 
-[View Project](https://github.com/Joo-Sebaii)
+[View Project](https://github.com/Joo-Sebaii/m5-demand-forecasting)
 
 
 ### Core Banking Data Engineering Platform
@@ -119,7 +119,7 @@ An end-to-end data engineering platform designed around core banking data.
 
 **Technologies:** PostgreSQL, SQL, dbt, Apache Airflow, Docker, Apache Superset
 
-[View Project](https://github.com/Joo-Sebaii)
+[View Project](https://github.com/Joo-Sebaii/banking-data-engineering)
 
 
 ### Intelligent Agent Navigation & Decision-Making
@@ -133,7 +133,7 @@ A reinforcement learning environment for evaluating autonomous agent decision-ma
 
 **Technologies:** Python, NumPy, Q-Learning, Reinforcement Learning, OOP
 
-[View Project](https://github.com/Joo-Sebaii)
+[View Project](https://github.com/Joo-Sebaii/intelligent-agent-navigation-ai)
 
 
 ### Car Rental Management System
@@ -148,7 +148,7 @@ A team-based software engineering project implementing a complete car rental lif
 
 **Technologies:** Java, OOP, Git, Software Engineering
 
-[View Project](https://github.com/Joo-Sebaii)
+[View Project](https://github.com/Sama12340/Car-Rental-Management-System)
 
 
 ### TED Talks Recommender System
@@ -162,7 +162,7 @@ A content-based recommendation system built using TED Talk transcripts.
 
 **Technologies:** Python, Scikit-learn, NLP, Pandas
 
-[View Project](https://github.com/Joo-Sebaii)
+[View Project](https://github.com/Joo-Sebaii/ted-talks-recommender)
 
 ---
 
